@@ -12,6 +12,6 @@ Given this, find a positive integer x such that a^^x = b mod p.
 Creating a function to solve this challenge is not diffucult, but if we simply do it, we'll fail, since it takes numerous time.
 Therefore, we need to think of an efficient way. 
 
-After some time thinking, I came up with a way of solving it using Euler's theorem shown in the [solver.py](./solver.py).
+After some time thinking, I came up with a way of solving it using Euler's theorem as shown in the [solver.py](./solver.py).
 
 
